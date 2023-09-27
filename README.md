@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Welcome to my page! </br> I'm Kishen, An aspiring Data Scientist | Data Engineer | Fullstack Developer 🧑🏽‍💻
+<p>Welcome to my Github page!  </br> I'm Kishen, An aspiring Data Scientist | Data Engineer | Fullstack Developer 🧑🏽‍💻
 
 <h3>Things I code with</h3>
 <p>
