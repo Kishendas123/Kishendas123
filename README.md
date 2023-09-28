@@ -1,20 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Kishendas123/Kishendas123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p>Welcome to my Github page!  </br> I'm Kishen, An aspiring Data Scientist | Data Engineer | Fullstack Developer 🧑🏽‍💻
+<p>Welcome to my Github page!  </br> I'm Kishen, An aspiring Data Scientist | Data Engineer | Fullstack Developer 🧑🏽‍💻 with a financial background 💹
 
 <h3>Things I code with</h3>
 <p>
@@ -36,12 +22,12 @@ Here are some ideas to get you started:
 </p>
 
 
-
-
-
-
-
-
 <h3>Where to find me</h3>
-<p><a href="https://github.com/Kishendas123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /</a> <a href="https://www.linkedin.com/in/kishen-das/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+  <a href="https://github.com/Kishendas123" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kishen-das/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
