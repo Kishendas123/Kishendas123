@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Welcome to my Github page!  </br> I'm Kishen, An aspiring Data Scientist | Data Engineer | Fullstack Developer 🧑🏽‍💻 with a financial background 💹
+<p>Welcome to my Github page!  </br> I'm Kishen, An aspiring Data Scientist | Data Engineer | Data Analyst 🧑🏽‍💻 with a financial background 💹
 
 <h3>Things I code with</h3>
 <p>
