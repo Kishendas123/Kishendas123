@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<p>Welcome to my Github page!  </br> I'm Kishen, An aspiring Data Scientist | Data Engineer | Data Analyst 🧑🏽‍💻 with a financial background 💹
+<p>Welcome to my GitHub page! I'm Kishen, an aspiring Data Scientist | Data Engineer | Data Analyst 🧑🏽‍💻 with a financial background 💹</p>
+<p> <img src="https://github.com/Kishendas123/Kishendas123/assets/140292825/b3c17cce-bf58-45ff-8420-96e6ea6f498a.gif" alt="GIF" width="200" align="right"></p>
+
 
 <h3>Things I code with</h3>
 <p>
