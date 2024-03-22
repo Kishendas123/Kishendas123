@@ -4,7 +4,7 @@
 <p> <img src="https://github.com/Kishendas123/Kishendas123/assets/140292825/b3c17cce-bf58-45ff-8420-96e6ea6f498a.gif" alt="GIF" width="200" align="right"></p>
 
 
-<h3>Things I code with</h3>
+<h4>MY TECH STACK</h4>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -24,7 +24,7 @@
 </p>
 
 
-<h3>Where to find me</h3>
+<h4>CONNECT WITH ME</h4>
 <p>
   <a href="https://github.com/Kishendas123" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-4a3b6a.svg?&style=for-the-badge&logo=Github&logoColor=white" />
