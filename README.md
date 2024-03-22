@@ -26,7 +26,7 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/Kishendas123" target="_blank">
+  <a href="https://github.com/Kishendas123" onclick="window.open(this.href); return false;">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-4a3b6a.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kishen-das/" target="_blank">
