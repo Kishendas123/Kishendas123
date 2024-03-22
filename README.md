@@ -27,9 +27,12 @@
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/Kishendas123" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-4a3b6a.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kishen-das/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.codecademy.com/profiles/kishendas123/" target="_blank">
+    <img alt="CodeAcademy" src="https://img.shields.io/badge/codecademy-c3b091?&style=for-the-badge&logo=codecademy&logoColor=black" />
   </a>
 </p>
