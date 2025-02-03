@@ -4,7 +4,7 @@
 
 
 <p>Data Scientist | Data Engineer | Data Analyst 🧑🏽‍💻 with a financial background 💹</p>
- <p> <img src="https://github.com/Kishendas123/Kishendas123/blob/8a3101d10b2fd537047c469f9be83b0ee5a73ffb/KIROKAZE.gif" alt="GIF" align="right" width=380></p> 
+ <p> <img src="https://github.com/Kishendas123/Kishendas123/blob/8a3101d10b2fd537047c469f9be83b0ee5a73ffb/KIROKAZE.gif" alt="GIF" align="right" width=350></p> 
 
 <h4>MY TECH STACK</h4>
 
@@ -32,6 +32,7 @@
 <h6>Smart Contract Development 💵 </h6>
 <p>
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-232121?style=flat-square&logo=Solidity&logoColor=white" /> 
+ <img alt="ethereum" src="https://img.shields.io/badge/-Ethereum-232121?style=flat-square&logo=ethereum&logoColor=white" /> 
 </p>
 
 <h6>Data Engineering (BackEnd) ⚙️ </h6>
