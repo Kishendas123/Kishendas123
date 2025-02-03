@@ -4,7 +4,7 @@
 
 
 <p>Data Scientist | Data Engineer | Data Analyst 🧑🏽‍💻 with a financial background 💹</p>
- <p> <img src="https://github.com/Kishendas123/Kishendas123/blob/8a3101d10b2fd537047c469f9be83b0ee5a73ffb/KIROKAZE.gif" alt="GIF" align="right" width=400></p> 
+ <p> <img src="https://github.com/Kishendas123/Kishendas123/blob/8a3101d10b2fd537047c469f9be83b0ee5a73ffb/KIROKAZE.gif" alt="GIF" align="right" width=380></p> 
 
 <h4>MY TECH STACK</h4>
 
