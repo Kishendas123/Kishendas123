@@ -1,14 +1,13 @@
-### Hi there 👋
+### get lost in code with me 🍃
+
+<hr style="width: 150px; border: 2px solid black; margin-left: 0;">
 
 
-
-<p>Welcome to my GitHub page! I'm Kishen, an aspiring Data Scientist | Data Engineer | Data Analyst 🧑🏽‍💻 with a financial background 💹</p>
- <p> <img src="https://github.com/Kishendas123/Kishendas123/blob/743d01d060c4c267a630d2c8f08728552ccb0c78/Artist%20Creates%20The%20Best%20Japanese%20Pixel%20Art%20GIFs%20on%20Earth.gif" alt="GIF" align="right" width=400></p> 
-
- 
-
+<p>Data Scientist | Data Engineer | Data Analyst 🧑🏽‍💻 with a financial background 💹</p>
+ <p> <img src="https://github.com/Kishendas123/Kishendas123/blob/8a3101d10b2fd537047c469f9be83b0ee5a73ffb/KIROKAZE.gif" alt="GIF" align="right" width=400></p> 
 
 <h4>MY TECH STACK</h4>
+
 <!-- <h5>languages</h5> -->
 <h6>Data Analysis/Science 🔬</h6>
 <p>
@@ -52,13 +51,9 @@
   <a href="https://github.com/Kishendas123" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-4a3b6a.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-</p>
-<p>
   <a href="https://www.linkedin.com/in/kishen-das/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-<p>
   <a href="https://www.codecademy.com/profiles/kishendas123/" target="_blank">
     <img alt="CodeAcademy" src="https://img.shields.io/badge/codecademy-c3b091?&style=for-the-badge&logo=codecademy&logoColor=black" />
   </a>
