@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+
+
 <p>Welcome to my GitHub page! I'm Kishen, an aspiring Data Scientist | Data Engineer | Data Analyst 🧑🏽‍💻 with a financial background 💹</p>
- <p> <img src="https://github.com/Kishendas123/Kishendas123/assets/140292825/b3c17cce-bf58-45ff-8420-96e6ea6f498a.gif" alt="GIF" width="200" align="right"></p> 
+ <p> <img src="https://github.com/Kishendas123/Kishendas123/blob/743d01d060c4c267a630d2c8f08728552ccb0c78/Artist%20Creates%20The%20Best%20Japanese%20Pixel%20Art%20GIFs%20on%20Earth.gif" alt="GIF" align="right" width=400></p> 
+
+ 
 
 
 <h4>MY TECH STACK</h4>
-<!--<h5>languages</h5>-->
+<!-- <h5>languages</h5> -->
 <h6>Data Analysis/Science 🔬</h6>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-232121?style=flat-square&logo=python&logoColor=white"/> 
