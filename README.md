@@ -17,8 +17,8 @@
 <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter-990000?style=flat-square&logo=jupyter&logoColor=white" />
 <img alt="sqlite" src="https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=sqlite&logoColor=white" />
 <img alt="numpy" src="https://img.shields.io/badge/-NumPy-yellow?style=flat-square&logo=numpy&logoColor=white" />
- <img alt="pandas" src="https://img.shields.io/badge/-Pandas-006400?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="scikitlearn" src="https://img.shields.io/badge/-scikitlearn-blue?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img alt="pandas" src="https://img.shields.io/badge/-Pandas-006400?style=flat-square&logo=pandas&logoColor=white" />
+<img alt="scikitlearn" src="https://img.shields.io/badge/-scikitlearn-blue?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img alt="tensorflow" src="https://img.shields.io/badge/-Tensorflow-00008B?style=flat-square&logo=tensorflow&logoColor=white" />
 <img alt="keras" src="https://img.shields.io/badge/-Keras-351c75?style=flat-square&logo=keras&logoColor=white" />
 </p>
