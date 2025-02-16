@@ -3,7 +3,7 @@
 <hr style="width: 150px; border: 2px solid black; margin-left: 0;">
 
 
-<p>Data Scientist | Data Engineer | Data Analyst 🧑🏽‍💻 with a financial background 💹</p>
+<p>Data Scientist | Data Analyst 🧑🏽‍💻 with a financial background 💹</p>
  <p> <img src="https://github.com/Kishendas123/Kishendas123/blob/8a3101d10b2fd537047c469f9be83b0ee5a73ffb/KIROKAZE.gif" alt="GIF" align="right" width=350></p> 
 
 <h4>MY TECH STACK</h4>
