@@ -61,10 +61,10 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-<a href="your_tableau_link_here" target="_blank">
+<a href="https://public.tableau.com/app/profile/kishen.das/vizzes" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/>
 </a>
-  <a href="your_tableau_link_here" target="_blank">
+  <a href="https://public.tableau.com/app/profile/kishen.das/vizzes" target="_blank">
     <img src="https://img.shields.io/badge/tableau-1f77b4?style=for-the-badge&logo=tableau&logoColor=white"/>
   </a>
     <a href="https://www.codecademy.com/profiles/kishendas123/" target="_blank">
