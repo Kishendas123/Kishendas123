@@ -33,6 +33,7 @@
 <p>
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-232121?style=flat-square&logo=Solidity&logoColor=white" /> 
  <img alt="ethereum" src="https://img.shields.io/badge/-Ethereum-232121?style=flat-square&logo=ethereum&logoColor=white" /> 
+ <img alt="hardhat" src="https://img.shields.io/badge/-Hardhat-232121?style=flat-square&logo=redhat&logoColor=white" /> 
 </p>
 
 <h6>Data Engineering (BackEnd) ⚙️ </h6>
